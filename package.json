@@ -1,5 +1,4 @@
-{
-    "name": "poordash-cli",
+{   "name": "bikewindow-cli",
     "version": "0.1",
     "description": "Race to the Bottom!",
     "main": "server.js",
